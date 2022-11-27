@@ -1,7 +1,7 @@
 # Movie-Recommendations-System-using-KNN
 A recommendation system/engine is a model used for
 
- where it tries to predict the preferences of a user and provide suggests based on these preferences.
+information filtering where it tries to predict the preferences of a user and provide suggests based on these preferences.
 
 Dataset used here is taken from Kaggle - movie.csv,ratings.csv,users.csv. 
 
